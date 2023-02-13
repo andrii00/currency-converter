@@ -1,0 +1,16 @@
+.edit-icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.relative {
+  position: relative;
+}
+.confirm-edit-buttons {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.confirm-edit-buttons > i {
+  cursor: pointer;
+}

@@ -1,0 +1,8 @@
+.footer-distributed {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #1976d2;
+  color: white;
+}
